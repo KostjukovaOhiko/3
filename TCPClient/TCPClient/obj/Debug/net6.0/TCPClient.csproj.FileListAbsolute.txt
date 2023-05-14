@@ -1,0 +1,15 @@
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\bin\Debug\net6.0\TCPClient.exe
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\bin\Debug\net6.0\TCPClient.deps.json
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\bin\Debug\net6.0\TCPClient.runtimeconfig.json
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\bin\Debug\net6.0\TCPClient.dll
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\bin\Debug\net6.0\TCPClient.pdb
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.csproj.AssemblyReference.cache
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.AssemblyInfoInputs.cache
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.AssemblyInfo.cs
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.csproj.CoreCompileInputs.cache
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.dll
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\refint\TCPClient.dll
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.pdb
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\TCPClient.genruntimeconfig.cache
+F:\универ\ООП\Лаба № 17\TCPClient\TCPClient\obj\Debug\net6.0\ref\TCPClient.dll
