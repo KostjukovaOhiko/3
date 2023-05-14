@@ -1,0 +1,15 @@
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\bin\Debug\net6.0\TCPServer.exe
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\bin\Debug\net6.0\TCPServer.deps.json
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\bin\Debug\net6.0\TCPServer.runtimeconfig.json
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\bin\Debug\net6.0\TCPServer.dll
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\bin\Debug\net6.0\TCPServer.pdb
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.csproj.AssemblyReference.cache
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.AssemblyInfoInputs.cache
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.AssemblyInfo.cs
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.csproj.CoreCompileInputs.cache
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.dll
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\refint\TCPServer.dll
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.pdb
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\TCPServer.genruntimeconfig.cache
+F:\универ\ООП\Лаба № 17\TCPServer\TCPServer\obj\Debug\net6.0\ref\TCPServer.dll
